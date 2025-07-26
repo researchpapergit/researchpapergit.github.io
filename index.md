@@ -16,6 +16,10 @@
 + [Fuzzy Ex-RL: Fuzzy Experience-Based Reinforcement Learning](Fuzzy_EXRL.pdf) <br />
 [Source Link](https://mlkd.aut.ac.ir/proceedings/2024/paper/3B.1.pdf)
 
+
++ On the Perturbed States for Transformed Input-robust Reinforcement Learning
+[Source Link](https://arxiv.org/pdf/2408.00023)
+
 + [Integrated Data Analysis and Processing Platform Based on Spark and MPI](Integrated_Data_Analysis.pdf)
 
 + [Survey on Solutions and Applications for Mixed-motive Games](Survey_Mixed_Motive_Games.pdf)
